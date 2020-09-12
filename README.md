@@ -1,6 +1,6 @@
 ## Hi! 🤚🏼
 
-### 👊 Jose Luis Chavez Guerra 👊
+### Jose Luis Chavez Guerra 
 
 →  Software Developer specialized in Backend with JavaScript. 🖥
 
