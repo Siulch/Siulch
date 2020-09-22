@@ -23,3 +23,5 @@
 - VR - AR
 
 🌍 Spanish - English
+
+Contact me: [Linkedin](https://www.linkedin.com/in/jose-luis-chavez/)
