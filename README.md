@@ -2,11 +2,11 @@
 
 ### Jose Luis Chavez Guerra 
 
-→  Software Developer specialized in Backend with JavaScript. 🖥
+→  Software Developer specialized in JavaScript. 🖥
 
-→  Passionate about creating awesome experiences on Frontend, Virtual Reality, and Augmented Reality. 💪🏻
+→  Passionate about creating awesome experiences on Web, Virtual Reality, and Augmented Reality. 💪🏻
 
-→  I have years of experience developing awesome XR experiences with Unity and now taking it to the next level with an awesome backend. 👍🏼
+→  I have years of experience developing awesome XR experiences with Unity and now taking it to the next level like a fullstack JavaScript 👍🏼
 
 ### 🛠 SKILLS 🛠
 
