@@ -2,25 +2,17 @@
 
 ### Jose Luis Chavez Guerra 
 
-→  Software Developer specialized in JavaScript. 🖥
-
-→  Passionate about creating awesome experiences on Web, Virtual Reality, and Augmented Reality. 💪🏻
-
-→  I have years of experience developing awesome XR experiences with Unity and now taking it to the next level like a fullstack JavaScript 👍🏼
+→  Software Developer specialized in JavaScript, passionate about creating awesome experiences for the user, focused on user improvement. A self-taught person who loves challenges and learning new things. 🖥
 
 ### 🛠 SKILLS 🛠
 
 - Java Script
-- Node - Express - NPM
-- SQL - NoSQL
-- API REST - GraphQL
-- HTML- CSS
-- C# - Unity
-- GCP - AWS - Azure
-- Command Line
-- TravisCI - GitLabCI/CD
 - ReactJS - NextJS
-- VR - AR
+- HTML- CSS
+- Node - Express - NPM
+- API REST - GraphQL
+- SQL - NoSQL
+- Command Line
 
 🌍 Spanish - English
 
